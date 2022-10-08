@@ -1,5 +1,3 @@
-# demonstrate a grading system 
-# Subject1 -> end + mid /50
 mark = []
 subject = []
 grd = []
@@ -33,7 +31,7 @@ def calculate(total):
 
     if total >= 0 and total < 40:
         grade = 'E'
-    grd.append (grade)
+    grd.append (grade) # storing the returned grade to a list
 
 
 
