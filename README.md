@@ -9,3 +9,9 @@
      Create a grading system
 # Exercice 5
     Create a debt collection letter template
+# Exercise 6
+    Create an array that stores marks for five students.
+# Exercise 7
+    Write a program to demonstrate how to add an item in a dictionary.
+# Exercise 8
+    Past paper question
